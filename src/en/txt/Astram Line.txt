@@ -1,0 +1,22 @@
+34.393333,132.456944,Hondōri Station (Astram Line)
+34.396944, 132.458333, Kenchō-mae Station (Hiroshima)
+34.4053, 132.4588, Jōhoku Station
+34.408361, 132.461528, Shin-Hakushima Station
+34.411111, 132.462778, Hakushima Station (Astram Line)
+34.4175, 132.464722, Ushita Station
+34.427, 132.4692, Fudōin-mae Station
+34.435, 132.4708, Gion-shinbashi-kita Station
+34.443056, 132.474722, Nishihara Station
+34.4517, 132.4768, Nakasuji Station
+34.457778, 132.475278, Furuichi Station (Hiroshima)
+34.461389, 132.470556, Ōmachi Station (Hiroshima)
+34.4693, 132.4626, Bishamondai Station
+34.475, 132.453, Yasuhigashi Station
+34.4757, 132.4449, Kamiyasu Station
+34.4753, 132.4383, Takatori Station (Hiroshima)
+34.4727, 132.431, Chōrakuji Station
+34.4699, 132.4198, Tomo Station
+34.463056, 132.412778, Ōbara Station
+34.4556, 132.4051, Tomo-chūō Station
+34.441389, 132.402778, Ōzuka Station
+34.4354, 132.4003, Kōiki-kōen-mae Station

@@ -1,0 +1,390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FFA500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.456944,
+            34.393333
+          ],
+          [
+            132.458333,
+            34.396944
+          ],
+          [
+            132.4588,
+            34.4053
+          ],
+          [
+            132.461528,
+            34.408361
+          ],
+          [
+            132.462778,
+            34.411111
+          ],
+          [
+            132.464722,
+            34.4175
+          ],
+          [
+            132.4692,
+            34.427
+          ],
+          [
+            132.4708,
+            34.435
+          ],
+          [
+            132.474722,
+            34.443056
+          ],
+          [
+            132.4768,
+            34.4517
+          ],
+          [
+            132.475278,
+            34.457778
+          ],
+          [
+            132.470556,
+            34.461389
+          ],
+          [
+            132.4626,
+            34.4693
+          ],
+          [
+            132.453,
+            34.475
+          ],
+          [
+            132.4449,
+            34.4757
+          ],
+          [
+            132.4383,
+            34.4753
+          ],
+          [
+            132.431,
+            34.4727
+          ],
+          [
+            132.4198,
+            34.4699
+          ],
+          [
+            132.412778,
+            34.463056
+          ],
+          [
+            132.4051,
+            34.4556
+          ],
+          [
+            132.402778,
+            34.441389
+          ],
+          [
+            132.4003,
+            34.4354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hondōri Station (Astram Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.456944,
+          34.393333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenchō-mae Station (Hiroshima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.458333,
+          34.396944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jōhoku Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4588,
+          34.4053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shin-Hakushima Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.461528,
+          34.408361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakushima Station (Astram Line)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.462778,
+          34.411111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ushita Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.464722,
+          34.4175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fudōin-mae Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4692,
+          34.427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gion-shinbashi-kita Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4708,
+          34.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nishihara Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.474722,
+          34.443056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakasuji Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4768,
+          34.4517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Furuichi Station (Hiroshima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.475278,
+          34.457778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ōmachi Station (Hiroshima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.470556,
+          34.461389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishamondai Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4626,
+          34.4693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yasuhigashi Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.453,
+          34.475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamiyasu Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4449,
+          34.4757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takatori Station (Hiroshima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4383,
+          34.4753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chōrakuji Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.431,
+          34.4727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomo Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4198,
+          34.4699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ōbara Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.412778,
+          34.463056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomo-chūō Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4051,
+          34.4556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ōzuka Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.402778,
+          34.441389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kōiki-kōen-mae Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4003,
+          34.4354
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- GPX begins -->
+<gpx
+	version="1.1"
+	xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+>
+	<!-- Route begins -->
+	<rte>
+		<!-- Route point begins -->
+		<rtept lat="34.393333" lon="132.456944"></rtept>
+		<rtept lat="34.396944" lon="132.458333"></rtept>
+		<rtept lat="34.4053" lon="132.4588"></rtept>
+		<rtept lat="34.408361" lon="132.461528"></rtept>
+		<rtept lat="34.411111" lon="132.462778"></rtept>
+		<rtept lat="34.4175" lon="132.464722"></rtept>
+		<rtept lat="34.427" lon="132.4692"></rtept>
+		<rtept lat="34.435" lon="132.4708"></rtept>
+		<rtept lat="34.443056" lon="132.474722"></rtept>
+		<rtept lat="34.4517" lon="132.4768"></rtept>
+		<rtept lat="34.457778" lon="132.475278"></rtept>
+		<rtept lat="34.461389" lon="132.470556"></rtept>
+		<rtept lat="34.4693" lon="132.4626"></rtept>
+		<rtept lat="34.475" lon="132.453"></rtept>
+		<rtept lat="34.4757" lon="132.4449"></rtept>
+		<rtept lat="34.4753" lon="132.4383"></rtept>
+		<rtept lat="34.4727" lon="132.431"></rtept>
+		<rtept lat="34.4699" lon="132.4198"></rtept>
+		<rtept lat="34.463056" lon="132.412778"></rtept>
+		<rtept lat="34.4556" lon="132.4051"></rtept>
+		<rtept lat="34.441389" lon="132.402778"></rtept>
+		<rtept lat="34.4354" lon="132.4003"></rtept>
+		<!-- Route point ends -->
+	</rte>
+	<!-- Route ends -->
+
+	<!-- Track begins -->
+	<trk>
+		<!-- Track point begins -->
+		<trkpt lat="34.393333" lon="132.456944"></trkpt>
+		<trkpt lat="34.396944" lon="132.458333"></trkpt>
+		<trkpt lat="34.4053" lon="132.4588"></trkpt>
+		<trkpt lat="34.408361" lon="132.461528"></trkpt>
+		<trkpt lat="34.411111" lon="132.462778"></trkpt>
+		<trkpt lat="34.4175" lon="132.464722"></trkpt>
+		<trkpt lat="34.427" lon="132.4692"></trkpt>
+		<trkpt lat="34.435" lon="132.4708"></trkpt>
+		<trkpt lat="34.443056" lon="132.474722"></trkpt>
+		<trkpt lat="34.4517" lon="132.4768"></trkpt>
+		<trkpt lat="34.457778" lon="132.475278"></trkpt>
+		<trkpt lat="34.461389" lon="132.470556"></trkpt>
+		<trkpt lat="34.4693" lon="132.4626"></trkpt>
+		<trkpt lat="34.475" lon="132.453"></trkpt>
+		<trkpt lat="34.4757" lon="132.4449"></trkpt>
+		<trkpt lat="34.4753" lon="132.4383"></trkpt>
+		<trkpt lat="34.4727" lon="132.431"></trkpt>
+		<trkpt lat="34.4699" lon="132.4198"></trkpt>
+		<trkpt lat="34.463056" lon="132.412778"></trkpt>
+		<trkpt lat="34.4556" lon="132.4051"></trkpt>
+		<trkpt lat="34.441389" lon="132.402778"></trkpt>
+		<trkpt lat="34.4354" lon="132.4003"></trkpt>
+		<!-- Track point ends -->
+	</trk>
+	<!-- Track ends -->
+
+	<!-- Waypoints and name begins -->
+	<wpt lat="34.393333" lon="132.456944">
+		<name>Hondōri Station (Astram Line)</name>
+	</wpt>
+	<wpt lat="34.396944" lon="132.458333">
+		<name>Kenchō-mae Station (Hiroshima)</name>
+	</wpt>
+	<wpt lat="34.4053" lon="132.4588">
+		<name>Jōhoku Station</name>
+	</wpt>
+	<wpt lat="34.408361" lon="132.461528">
+		<name>Shin-Hakushima Station</name>
+	</wpt>
+	<wpt lat="34.411111" lon="132.462778">
+		<name>Hakushima Station (Astram Line)</name>
+	</wpt>
+	<wpt lat="34.4175" lon="132.464722">
+		<name>Ushita Station</name>
+	</wpt>
+	<wpt lat="34.427" lon="132.4692">
+		<name>Fudōin-mae Station</name>
+	</wpt>
+	<wpt lat="34.435" lon="132.4708">
+		<name>Gion-shinbashi-kita Station</name>
+	</wpt>
+	<wpt lat="34.443056" lon="132.474722">
+		<name>Nishihara Station</name>
+	</wpt>
+	<wpt lat="34.4517" lon="132.4768">
+		<name>Nakasuji Station</name>
+	</wpt>
+	<wpt lat="34.457778" lon="132.475278">
+		<name>Furuichi Station (Hiroshima)</name>
+	</wpt>
+	<wpt lat="34.461389" lon="132.470556">
+		<name>Ōmachi Station (Hiroshima)</name>
+	</wpt>
+	<wpt lat="34.4693" lon="132.4626">
+		<name>Bishamondai Station</name>
+	</wpt>
+	<wpt lat="34.475" lon="132.453">
+		<name>Yasuhigashi Station</name>
+	</wpt>
+	<wpt lat="34.4757" lon="132.4449">
+		<name>Kamiyasu Station</name>
+	</wpt>
+	<wpt lat="34.4753" lon="132.4383">
+		<name>Takatori Station (Hiroshima)</name>
+	</wpt>
+	<wpt lat="34.4727" lon="132.431">
+		<name>Chōrakuji Station</name>
+	</wpt>
+	<wpt lat="34.4699" lon="132.4198">
+		<name>Tomo Station</name>
+	</wpt>
+	<wpt lat="34.463056" lon="132.412778">
+		<name>Ōbara Station</name>
+	</wpt>
+	<wpt lat="34.4556" lon="132.4051">
+		<name>Tomo-chūō Station</name>
+	</wpt>
+	<wpt lat="34.441389" lon="132.402778">
+		<name>Ōzuka Station</name>
+	</wpt>
+	<wpt lat="34.4354" lon="132.4003">
+		<name>Kōiki-kōen-mae Station</name>
+	</wpt>
+	<!-- Waypoints and name ends -->
+</gpx>
+<!-- GPX ends -->
