@@ -1,0 +1,43 @@
+{
+  "autorun": false,
+  "terminals": [
+    {
+      "name": "Generate GPX File",
+      "description": "Generate GPX file (.txt file must be open)",
+      "shellPath": "C:\\Windows\\system32\\cmd.exe",
+      "icon": "map-filled",
+      "color": "terminal.ansiRed",
+      "command": "node generate input=\"[fileBasename]\"",
+      "execute": false,
+      "recycle": true,
+      "focus": true
+    },
+
+    {
+      "name": "Move Files To \"src\/en\"",
+      "description": "Move files to \"src\/en\"",
+      "shellPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "icon": "arrow-circle-right",
+      "color": "terminal.ansiYellow",
+      "command": "mv *.txt ./src/en/txt; mv *.gpx ./src/en/gpx; mv *.geojson ./src/en/geojson;",
+      "execute": false,
+      "recycle": true,
+      "focus": true
+    },
+
+    {
+      "name": "Count Files In \"src\/en\"",
+      "description": "Count Files In \"src\/en\"",
+      "shellPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "icon": "symbol-numeric",
+      "color": "terminal.ansiGreen",
+      "commands": [
+        "cd src/en",
+        "Get-ChildItem -Recurse -File | group Extension -NoElement  | sort Count -Descending;"
+      ],
+      "execute": false,
+      "recycle": true,
+      "focus": true
+    }
+  ]
+}
