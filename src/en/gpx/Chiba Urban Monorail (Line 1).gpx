@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- GPX begins -->
+<gpx
+	version="1.1"
+	xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+>
+	<!-- Route begins -->
+	<rte>
+		<!-- Route point begins -->
+		<rtept lat="35.606183" lon="140.103392"></rtept>
+		<rtept lat="35.607187" lon="140.107797"></rtept>
+		<rtept lat="35.613122" lon="140.113192"></rtept>
+		<rtept lat="35.613" lon="140.118611"></rtept>
+		<rtept lat="35.6086" lon="140.12"></rtept>
+		<rtept lat="35.60366" lon="140.122171"></rtept>
+		<!-- Route point ends -->
+	</rte>
+	<!-- Route ends -->
+
+	<!-- Track begins -->
+	<trk>
+		<!-- Track point begins -->
+		<trkpt lat="35.606183" lon="140.103392"></trkpt>
+		<trkpt lat="35.607187" lon="140.107797"></trkpt>
+		<trkpt lat="35.613122" lon="140.113192"></trkpt>
+		<trkpt lat="35.613" lon="140.118611"></trkpt>
+		<trkpt lat="35.6086" lon="140.12"></trkpt>
+		<trkpt lat="35.60366" lon="140.122171"></trkpt>
+		<!-- Track point ends -->
+	</trk>
+	<!-- Track ends -->
+
+	<!-- Waypoints and name begins -->
+	<wpt lat="35.606183" lon="140.103392">
+		<name>Chibaminato Station</name>
+	</wpt>
+	<wpt lat="35.607187" lon="140.107797">
+		<name>Shiyakusho-mae Station (Chiba)</name>
+	</wpt>
+	<wpt lat="35.613122" lon="140.113192">
+		<name>Chiba Station</name>
+	</wpt>
+	<wpt lat="35.613" lon="140.118611">
+		<name>Sakaechō Station (Chiba)</name>
+	</wpt>
+	<wpt lat="35.6086" lon="140.12">
+		<name>Yoshikawa-kōen Station</name>
+	</wpt>
+	<wpt lat="35.60366" lon="140.122171">
+		<name>Kenchō-mae Station (Chiba)</name>
+	</wpt>
+	<!-- Waypoints and name ends -->
+</gpx>
+<!-- GPX ends -->

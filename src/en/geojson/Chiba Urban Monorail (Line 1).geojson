@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0096D5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.103392,
+            35.606183
+          ],
+          [
+            140.107797,
+            35.607187
+          ],
+          [
+            140.113192,
+            35.613122
+          ],
+          [
+            140.118611,
+            35.613
+          ],
+          [
+            140.12,
+            35.6086
+          ],
+          [
+            140.122171,
+            35.60366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chibaminato Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.103392,
+          35.606183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiyakusho-mae Station (Chiba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.107797,
+          35.607187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiba Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.113192,
+          35.613122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakaechō Station (Chiba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.118611,
+          35.613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoshikawa-kōen Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12,
+          35.6086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenchō-mae Station (Chiba)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.122171,
+          35.60366
+        ]
+      }
+    }
+  ]
+}

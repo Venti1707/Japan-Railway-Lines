@@ -1,0 +1,6 @@
+35.606183, 140.103392, Chibaminato Station
+35.607187, 140.107797, Shiyakusho-mae Station (Chiba)
+35.613122, 140.113192, Chiba Station
+35.613, 140.118611, Sakaechō Station (Chiba)
+35.6086, 140.12, Yoshikawa-kōen Station
+35.60366, 140.122171, Kenchō-mae Station (Chiba)
