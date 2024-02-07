@@ -1,0 +1,16 @@
+35.441044, 139.633175, Isezaki-chōjamachi Station
+35.437361, 139.625, Bandōbashi Station
+35.435489, 139.618456, Yoshinochō Station
+35.43, 139.61, Maita Station (Kanagawa)
+35.423056, 139.602083, Gumyōji Station (Yokohama Municipal Subway)
+35.409208, 139.596598, Kamiōoka Station
+35.40105, 139.590958, Kōnan-Chūō Station
+35.401389, 139.572639, Kaminagaya Station
+35.402678, 139.559389, Shimonagaya Station
+35.4025, 139.551111, Maioka Station
+35.400556, 139.534167, Totsuka Station
+35.405556, 139.518611, Odoriba Station
+35.411153, 139.511411, Nakada Station
+35.414297, 139.500247, Tateba Station
+35.403489, 139.483183, Shimoiida Station
+35.396185, 139.466589, Shōnandai Station

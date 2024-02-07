@@ -1,0 +1,288 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#2F56A5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.633175,
+            35.441044
+          ],
+          [
+            139.625,
+            35.437361
+          ],
+          [
+            139.618456,
+            35.435489
+          ],
+          [
+            139.61,
+            35.43
+          ],
+          [
+            139.602083,
+            35.423056
+          ],
+          [
+            139.596598,
+            35.409208
+          ],
+          [
+            139.590958,
+            35.40105
+          ],
+          [
+            139.572639,
+            35.401389
+          ],
+          [
+            139.559389,
+            35.402678
+          ],
+          [
+            139.551111,
+            35.4025
+          ],
+          [
+            139.534167,
+            35.400556
+          ],
+          [
+            139.518611,
+            35.405556
+          ],
+          [
+            139.511411,
+            35.411153
+          ],
+          [
+            139.500247,
+            35.414297
+          ],
+          [
+            139.483183,
+            35.403489
+          ],
+          [
+            139.466589,
+            35.396185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isezaki-chōjamachi Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633175,
+          35.441044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandōbashi Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625,
+          35.437361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoshinochō Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618456,
+          35.435489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maita Station (Kanagawa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61,
+          35.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gumyōji Station (Yokohama Municipal Subway)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.602083,
+          35.423056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamiōoka Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.596598,
+          35.409208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kōnan-Chūō Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.590958,
+          35.40105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaminagaya Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.572639,
+          35.401389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shimonagaya Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.559389,
+          35.402678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maioka Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.551111,
+          35.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Totsuka Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.534167,
+          35.400556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odoriba Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.518611,
+          35.405556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakada Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.511411,
+          35.411153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tateba Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.500247,
+          35.414297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shimoiida Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483183,
+          35.403489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shōnandai Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.466589,
+          35.396185
+        ]
+      }
+    }
+  ]
+}

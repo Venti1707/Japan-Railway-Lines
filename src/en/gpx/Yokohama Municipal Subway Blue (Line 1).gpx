@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- GPX begins -->
+<gpx
+	version="1.1"
+	xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+>
+	<!-- Route begins -->
+	<rte>
+		<!-- Route point begins -->
+		<rtept lat="35.441044" lon="139.633175"></rtept>
+		<rtept lat="35.437361" lon="139.625"></rtept>
+		<rtept lat="35.435489" lon="139.618456"></rtept>
+		<rtept lat="35.43" lon="139.61"></rtept>
+		<rtept lat="35.423056" lon="139.602083"></rtept>
+		<rtept lat="35.409208" lon="139.596598"></rtept>
+		<rtept lat="35.40105" lon="139.590958"></rtept>
+		<rtept lat="35.401389" lon="139.572639"></rtept>
+		<rtept lat="35.402678" lon="139.559389"></rtept>
+		<rtept lat="35.4025" lon="139.551111"></rtept>
+		<rtept lat="35.400556" lon="139.534167"></rtept>
+		<rtept lat="35.405556" lon="139.518611"></rtept>
+		<rtept lat="35.411153" lon="139.511411"></rtept>
+		<rtept lat="35.414297" lon="139.500247"></rtept>
+		<rtept lat="35.403489" lon="139.483183"></rtept>
+		<rtept lat="35.396185" lon="139.466589"></rtept>
+		<!-- Route point ends -->
+	</rte>
+	<!-- Route ends -->
+
+	<!-- Track begins -->
+	<trk>
+		<!-- Track point begins -->
+		<trkpt lat="35.441044" lon="139.633175"></trkpt>
+		<trkpt lat="35.437361" lon="139.625"></trkpt>
+		<trkpt lat="35.435489" lon="139.618456"></trkpt>
+		<trkpt lat="35.43" lon="139.61"></trkpt>
+		<trkpt lat="35.423056" lon="139.602083"></trkpt>
+		<trkpt lat="35.409208" lon="139.596598"></trkpt>
+		<trkpt lat="35.40105" lon="139.590958"></trkpt>
+		<trkpt lat="35.401389" lon="139.572639"></trkpt>
+		<trkpt lat="35.402678" lon="139.559389"></trkpt>
+		<trkpt lat="35.4025" lon="139.551111"></trkpt>
+		<trkpt lat="35.400556" lon="139.534167"></trkpt>
+		<trkpt lat="35.405556" lon="139.518611"></trkpt>
+		<trkpt lat="35.411153" lon="139.511411"></trkpt>
+		<trkpt lat="35.414297" lon="139.500247"></trkpt>
+		<trkpt lat="35.403489" lon="139.483183"></trkpt>
+		<trkpt lat="35.396185" lon="139.466589"></trkpt>
+		<!-- Track point ends -->
+	</trk>
+	<!-- Track ends -->
+
+	<!-- Waypoints and name begins -->
+	<wpt lat="35.441044" lon="139.633175">
+		<name>Isezaki-chōjamachi Station</name>
+	</wpt>
+	<wpt lat="35.437361" lon="139.625">
+		<name>Bandōbashi Station</name>
+	</wpt>
+	<wpt lat="35.435489" lon="139.618456">
+		<name>Yoshinochō Station</name>
+	</wpt>
+	<wpt lat="35.43" lon="139.61">
+		<name>Maita Station (Kanagawa)</name>
+	</wpt>
+	<wpt lat="35.423056" lon="139.602083">
+		<name>Gumyōji Station (Yokohama Municipal Subway)</name>
+	</wpt>
+	<wpt lat="35.409208" lon="139.596598">
+		<name>Kamiōoka Station</name>
+	</wpt>
+	<wpt lat="35.40105" lon="139.590958">
+		<name>Kōnan-Chūō Station</name>
+	</wpt>
+	<wpt lat="35.401389" lon="139.572639">
+		<name>Kaminagaya Station</name>
+	</wpt>
+	<wpt lat="35.402678" lon="139.559389">
+		<name>Shimonagaya Station</name>
+	</wpt>
+	<wpt lat="35.4025" lon="139.551111">
+		<name>Maioka Station</name>
+	</wpt>
+	<wpt lat="35.400556" lon="139.534167">
+		<name>Totsuka Station</name>
+	</wpt>
+	<wpt lat="35.405556" lon="139.518611">
+		<name>Odoriba Station</name>
+	</wpt>
+	<wpt lat="35.411153" lon="139.511411">
+		<name>Nakada Station</name>
+	</wpt>
+	<wpt lat="35.414297" lon="139.500247">
+		<name>Tateba Station</name>
+	</wpt>
+	<wpt lat="35.403489" lon="139.483183">
+		<name>Shimoiida Station</name>
+	</wpt>
+	<wpt lat="35.396185" lon="139.466589">
+		<name>Shōnandai Station</name>
+	</wpt>
+	<!-- Waypoints and name ends -->
+</gpx>
+<!-- GPX ends -->
